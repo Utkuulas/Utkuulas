@@ -3,7 +3,7 @@
 - I’m interested in backend programming with .Net Core and Java
 - 🌱 Currently learning mobile developing with Kotlin
 - I've got my Bachelor's Degree in Electrical & Electronics Engineering
-- My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and some coding 💻
+- My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻
 
 ### Connect with me
 
