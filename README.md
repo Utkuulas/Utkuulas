@@ -5,15 +5,16 @@
 - I've got my Bachelor's Degree in Electrical & Electronics Engineering
 - My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻
 
-## Langues
+## Stats
 ---
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkuulas)](https://github.com/anuraghazra/github-readme-stats)
 
+## Languages
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 ---
-
 <div>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NETCore" title=".NETCore" />
@@ -27,7 +28,6 @@
 
 ## Contact
 ---
-
 [![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/utkuulasaltin/)
 
 
