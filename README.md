@@ -5,11 +5,15 @@
 - I've got my Bachelor's Degree in Electrical & Electronics Engineering
 - My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻
 
-### Connect with me
+## Langues
+---
 
-[![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/utkuulasaltin/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkuulas)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies
+
+## Technologies
+---
+
 <div>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NETCore" title=".NETCore" />
@@ -20,6 +24,11 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
 </div>
+
+## Contact
+---
+
+[![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/utkuulasaltin/)
 
 
 
