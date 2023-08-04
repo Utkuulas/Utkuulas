@@ -1,7 +1,7 @@
 ### Hi there, I'm Utku 👋
 
 - I’m interested in backend programming with .Net Core and Java
-- 🌱 Currently learning mobile developing with Kotlin
+- 🌱 Currently learning frontend developing with React
 - I've got my Bachelor's Degree in Electrical & Electronics Engineering
 - My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻
 
