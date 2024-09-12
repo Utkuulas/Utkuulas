@@ -1,9 +1,9 @@
 ### Hi there, I'm Utku 👋
 
-- I’m interested in backend programming with .Net Core and Java
-- 🌱 Currently learning frontend developing with React
+- I've fullstack development experience with .Net and Angular
+<!-- - 🌱 Currently learning frontend developing with React -->
 - I've got my Bachelor's Degree in Electrical & Electronics Engineering
-- My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻
+<!-- - My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻 -->
 
 ## Stats
 
@@ -22,7 +22,8 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular" />
+<!-- <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /> -->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript" title="Javascript" />
