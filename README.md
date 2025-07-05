@@ -20,8 +20,8 @@
 
 
 ## Contact
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/utkuulasaltin/)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:utkuulasaltin@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/utkuulasaltin/)
 
 
 
