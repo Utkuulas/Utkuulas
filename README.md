@@ -6,16 +6,12 @@
 <!-- - My free time activities: Playing instruments 🎸🎹🥁, watching sports 🏎️🎾🏀, playing video games 🎮 and coding 💻 -->
 
 ## Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkuulas&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkuulas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
-
-
+## Tech Deck
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,kotlin,ts,angular,html,css,bootstrap,git,postgres,docker,azure)](https://skillicons.dev)
 
 
